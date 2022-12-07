@@ -1,4 +1,4 @@
 # Spring Boot DynamoDB Config
 Spring Boot Config to allow connection to Dynamo DB.
 This is the end result of the live code video on YouTube. and is the second in the series...
-[Live Code Video]()
+[Live Code Video](https://youtu.be/TD5h4y2MZR0)
